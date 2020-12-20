@@ -1,4 +1,5 @@
-### Hi there 👋
+Yo, what's up!
+I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯
 
 <!--
 **samih256/samih256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
