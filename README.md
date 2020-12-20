@@ -1,5 +1,6 @@
 <h1>Yo, what's up!</h1>
-I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯
+<p>I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯</p>
+<img src="catjam.gif" alt="bruh"/>
 
 ![samih256's github stats](https://github-readme-stats.vercel.app/api?username=samih256)
 
