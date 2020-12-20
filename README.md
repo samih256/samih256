@@ -1,6 +1,8 @@
 Yo, what's up!
 I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 <!--
 **samih256/samih256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
