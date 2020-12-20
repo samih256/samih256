@@ -2,8 +2,6 @@
 <p>I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯</p>
 <img src="catjam.gif" alt="bruh"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k85mRPqvMbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ![samih256's github stats](https://github-readme-stats.vercel.app/api?username=samih256)
 
