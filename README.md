@@ -1,6 +1,6 @@
 <h1>Yo, what's up!</h1>
 <p>I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯</p>
-<img style="display:inline; height:200px" src="catjam.gif" alt="bruh"/>
+<img style="position: absolute" src="catjam.gif" alt="bruh"/>
 <img style="display:inline; height:200px" src="sealspin.gif" alt="bruh"/>
 <img style="display:inline; height:200px" src="type.gif" alt="bruh"/>
 
