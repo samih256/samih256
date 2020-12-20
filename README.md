@@ -1,7 +1,8 @@
 <h1>Yo, what's up!</h1>
 <p>I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯</p>
 <img src="catjam.gif" alt="bruh"/>
-<audio controls preload="none" loop muted autoplay>
+
+<audio controls preload="none" loop autoplay>
             <source src="drum.mp3" type="audio/mpeg"/>
 </audio>
 
