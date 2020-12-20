@@ -1,4 +1,4 @@
-Yo, what's up!
+<h1>Yo, what's up!</h1>
 I do stuff sometimes, but most of the time i dont do stuff ¯\_(ツ)_/¯
 
 ![samih256's github stats](https://github-readme-stats.vercel.app/api?username=samih256)
